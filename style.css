@@ -1,0 +1,33 @@
+.navbar-brand, .navbar-nav .nav-link {
+    color: #9c9c9c;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alert {
+    margin-top: 20px; 
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #afafaf;
+    color: #fff; 
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
